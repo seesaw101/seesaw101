@@ -1,0 +1,10 @@
+echo "# seesaw101" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/seesaw101/seesaw101.git
+git push -u origin main
+
+/*Le CSS détermine l’apparence de votre site Web, le style et l’aspect de votre site.* /
+
