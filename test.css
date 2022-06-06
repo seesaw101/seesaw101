@@ -1,0 +1,14 @@
+/*Le CSS détermine l’apparence de votre site Web, le style et l’aspect de votre site.* /
+
+<link rel="stylesheet" type = "text/css" href="style.css">
+<!DOCTYPE html>
+<html>
+ <head>
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=window-width, initial-scale=1.0">
+
+<style>
+
+ h1{
+
